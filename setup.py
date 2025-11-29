@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="celltimer",
+    name="jupyter-cell-runtime",
     version="0.1.0",
     description="A simple Jupyter/IPython cell execution timer with customizable color and label.",
     author="Your Name",
